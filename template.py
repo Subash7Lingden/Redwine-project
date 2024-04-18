@@ -23,6 +23,7 @@ list_of_files =[
     "params/params.yaml",
     "schema.yaml",
     "main.py",
+    "setup.py",
     "app.py",
     "requirements.txt",
     "research/trails.ipynb",
