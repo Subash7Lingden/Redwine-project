@@ -5,7 +5,7 @@
 2. updata schema.yaml
 3. update params.yaml
 4. update the entiy
-5. update the configuration manager in src confi
+5. update the configuration manager in src config
 6. update the components
 7. update the pipeline
 8. update the main.py
