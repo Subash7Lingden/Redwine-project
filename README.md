@@ -62,7 +62,7 @@ AWS-CICD-Deployment-with-Github-Actions
 
 3. Create ECR repo to store/save docker image
 ```bash
-- Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/mlproject
+- Save the URI: 339712821913.dkr.ecr.us-east-1.amazonaws.com/mlproject
 ```
 4. Create EC2 machine (Ubuntu)
 5. Open EC2 and Install docker in EC2 Machine:
